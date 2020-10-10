@@ -1,0 +1,8 @@
+@EndUserText.label: 'Travel_Approver'
+define service ZSD_TRAVEL_APPROVER {
+  expose ZCDS_C_ATRAVEL_M as Travel;
+  expose zcds_c_abooking_m as Booking;
+  expose /DMO/I_Customer as Passenger;
+  expose /DMO/I_Agency as Agency;
+  expose I_Currency as Currency;
+}
