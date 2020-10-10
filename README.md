@@ -1,3 +1,3 @@
 # SAP_RAP
 
-RAP Management
+SAP ABAP RESTful Programming Model (RAP) - Managed Scenario
